@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "reason to live",
+  "base_artist": "Yvng xan",
+  "createdAt": "2026-03-06T07:55:40.059777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Reason to Live",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/01_A_Reason_to_Live_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reason To Live",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/02_Reason_To_Live_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Reason to Live",
+      "artist": "Armored Saint",
+      "has_synced": false,
+      "path": "select/03_No_Reason_to_Live_Armored_Saint.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reason to Live",
+      "artist": "Gotthard",
+      "has_synced": false,
+      "path": "select/04_Reason_to_Live_Gotthard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reason To Live",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/05_Reason_To_Live_Kiss.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reason To Live",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/06_Reason_To_Live_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "REASON TO LIVE",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/07_REASON_TO_LIVE_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Reason to Live",
+      "artist": "Chimaira",
+      "has_synced": true,
+      "path": "select/08_No_Reason_to_Live_Chimaira.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "REASON TO LIVE",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/09_REASON_TO_LIVE_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reason to Live",
+      "artist": "Gotthard",
+      "has_synced": true,
+      "path": "select/10_Reason_to_Live_Gotthard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Reason to Live (instrumental)",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/11_A_Reason_to_Live_(instrumental)_Ayreon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "reason to live",
+      "artist": "Yvng xan",
+      "has_synced": false,
+      "path": "select/pl_01_reason_to_live_Yvng_xan.txt"
+    }
+  ]
+}
